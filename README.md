@@ -5,4 +5,4 @@
 ## 4) Food Menu
 ## 5) Movies Booking Page
 ## 6) Informative Page
-## 7) Photo Gallery
+## 7) Photo Gallery Page
