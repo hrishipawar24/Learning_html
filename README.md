@@ -6,3 +6,4 @@
 ## (5) Movies Booking Page
 ## (6) Informative Page
 ## (7) Photo Gallery Page
+## (8) Add Friends Facebook
